@@ -2,7 +2,7 @@
     <string name="app_name">Frases Cristianas</string>
     <string name="default_text">--</string>
     <string name="share_title">Compartir imagen</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2015513932539714/7761043020</string>
 
     <string name="permissions_dialog_gps_positive_button">Aceptar</string>
     <string name="permissions_message_same">Todos los permisos son requeridos.</string>
